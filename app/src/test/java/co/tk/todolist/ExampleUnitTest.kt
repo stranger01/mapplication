@@ -1,4 +1,4 @@
-package co.tk.findrepo
+package co.tk.todolist
 
 import org.junit.Test
 
