@@ -1,4 +1,4 @@
-package co.tk.todolist
+package com.example.todolist
 
 import org.junit.Test
 
