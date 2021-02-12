@@ -1,4 +1,4 @@
-package com.example.todolist
+package co.tk.projectkotlin
 
 import org.junit.Test
 
