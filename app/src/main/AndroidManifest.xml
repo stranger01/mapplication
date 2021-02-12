@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="co.tk.projectkotlin">
+    package="co.tk.funciona">
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
-        android:label="AMVT App Móvil"
+        android:icon="@drawable/smacklogo"
+        android:label="@string/app_name"
         android:supportsRtl="true"
-        android:theme="@style/TextAppearance.AppCompat">
+        android:theme="@style/Theme.Funciona">
         <activity
             android:name=".MainActivity"
             android:label="@string/app_name"
-            android:theme="@style/Theme.ProjectKotlin.NoActionBar">
+            android:theme="@style/Theme.Funciona.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
